@@ -446,3 +446,9 @@ a:after {
 .team a:hover {
 	color: #7b7b7b;
 }
+
+/* MailChimp */
+
+#mce-EMAIL {
+	width: 300px;
+}
