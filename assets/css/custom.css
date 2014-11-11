@@ -1,12 +1,21 @@
+
+
 .logotext {
-	margin-top:150px;
-	font-size:60px;
-	font-family: 'nexa_rust_sansblack';
+	margin-top:100px;
+	font-size:70px;
+	font-family: 'Sonsie One', serif;
+	font-weight: 700;
 }
 
 .logoundertext {
-	font-size:30px;
-	font-family: 'nexa_rust_script_l0regular';
+	font-size:40px;
+	font-family: 'Cabin Sketch';
+}
+
+.subtext {
+	font-size:20px;
+	font-family:'Titillium Web';
+	font-weight: 200;
 }
 
 #mce-EMAIL { 
