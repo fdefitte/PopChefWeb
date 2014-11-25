@@ -65,7 +65,7 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 p {
-  font-family: 'Old Standard TT', serif;
+  font-family: 'Titillium Web', serif;
   font-size: 14px;
   line-height: 1.75;
 }
@@ -129,14 +129,14 @@ h6 {
   margin-top: -100px;
 }
 section {
-  padding: 100px 0;
+  padding: 50px 0;
 }
 section .section-divider {
   display: block;
   font-family: 'nexa_rust_extrasfree', sans-serif;
   font-size: 50px;
   color: #ff6c00;
-  margin: 35px 0;
+  margin: 0px 0;
 }
 section .page-scroll .fa {
   color: #2e2e32;
@@ -877,7 +877,7 @@ ul.social-buttons li a:active {
 }
 @media (min-width: 768px) {
   .navbar-default {
-    padding: 25px 0;
+    padding: 10px 0;
     -webkit-transition: padding 0.3s;
     -moz-transition: padding 0.3s;
     transition: padding 0.3s;
